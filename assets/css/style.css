@@ -145,5 +145,17 @@ body {
     .ebook img{
         margin-right: 0;
     }
+
+    .action h2 {
+        font-size: 25px;
+    }
+
+    .section-2 h2 {
+        font-size: 25px;
+    }
+
+    .section-3 {
+        text-align: center;
+    }
 }
 
